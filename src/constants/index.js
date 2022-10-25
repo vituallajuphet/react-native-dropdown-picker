@@ -14,7 +14,8 @@ export const SCHEMA = {
     disabled: 'disabled',
     testID: 'testID',
     containerStyle: 'containerStyle',
-    labelStyle: 'labelStyle'
+    labelStyle: 'labelStyle',
+    customItem: {}
 }
 
 export const MODE = {
